@@ -1,6 +1,6 @@
 .Rproj.user
 .Rhistory
 .RData
-.R
-1SimFuncsV5.R
-2SimDataOrdinal.R
+*.R
+*.html
+*.pdf
