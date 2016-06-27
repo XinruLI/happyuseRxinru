@@ -1,0 +1,12 @@
+---
+title: "Rmd for github"
+author: "Xinru Li"
+date: "June 27, 2016"
+output: html_document
+---
+I try this in github
+
+```{r}
+summary(cars)
+```
+
