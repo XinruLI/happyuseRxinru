@@ -1,3 +1,4 @@
+# simulation functions
 source("1SimFuncsV5.R")
 # ordinal data with 3 levels
 set.seed(1552)
