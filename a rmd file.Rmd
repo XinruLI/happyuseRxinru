@@ -2,9 +2,10 @@
 title: "Rmd for github"
 author: "Xinru Li"
 date: "June 27, 2016"
-output: html_document
+output: pdf_document
 ---
-I try this in github
+I try this in github.
+Hello World!
 
 ```{r}
 summary(cars)
